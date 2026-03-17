@@ -38,10 +38,11 @@ truth-dare-game/
 2. Open the project folder
 3. Open index.html in your browser
 
-Or using Git:
+
+## Or using Git.
 
 
-git clone 
+git clone https://github.com/Lisa-24/Truth-Dare.git
 cd truth-dare-game
 open index.html
 
